@@ -1,0 +1,13 @@
+{
+  "name": "tagmydoc/sage-accounting-sdk-php",
+  "description": "Sage Accounting PHP SDK",
+  "type": "library",
+  "require": {
+    "sammyjo20/saloon": "^2.6"
+  },
+  "autoload": {
+    "psr-4": {
+      "TagMyDoc\\SageAccounting\\": "src/"
+    }
+  }
+}
